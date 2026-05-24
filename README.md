@@ -1,45 +1,34 @@
-# 👋 Hi, I'm Alberto Chung!
+# Alberto Chung
 
-Welcome to my GitHub! I'm a passionate **System Integrator & Administrator** with 9 years of hands-on experience, now making the leap into **DevOps**. My mission? To help Mexican MiPYME thrive by integrating the best technologies across infrastructure, networking, servers and cybersecurity.
+Systems & Infrastructure Consultant focused on operational simplicity, hybrid infrastructure and modern SMB environments.
 
----
+## Areas of Focus
 
-## 🚀 About Me
+* Linux system administration
+* Network infrastructure and segmentation
+* Identity and access management
+* Hybrid cloud operations
+* Infrastructure hardening
+* Monitoring and operational visibility
+* DNS and secure remote access
+* Infrastructure modernization for SMBs
 
-- 💼 **Profession:** System Integrator & Administrator (9+ years)
-- 🛠️ **Current Focus:** Transitioning to DevOps
-- 🌎 **Location:** Mexico
-- 🧩 **Passion:** Building robust solutions for micro, small, and medium-sized businesses (MiPYME)
-- 🏆 **Motto:**  
-  _"Choose a job you love, and you will never have to work a day in your life."_
+## Current Interests
 
----
+Currently focused on:
 
-## 🖥️ Tech I Love
+* hybrid infrastructure operations
+* identity-centric environments
+* infrastructure standardization
+* operational tooling and automation
+* practical cloud adoption
 
-- **Operating Systems:** Ubuntu Server (Linux enthusiast, former CentOS user)
-- **DevOps & Containers:** Docker
-- **Networking & Security:**  
-  - Hikvision  
-  - Ubiquiti  
-  - Grandstream  
-- **Mapping & Open Data:** [OpenStreetMap](https://www.openstreetmap.org/)
+## Selected Work
 
----
+* [`msmtp_interactive`](https://github.com/albertochungvz/msmtp_interactive)
+  Secure and maintainable shell-based installer for msmtp with AppArmor confinement and multi-account support.
 
-## 🌐 Let's Connect!
+## Links
 
-- **Website:** [albertochung.com](https://albertochung.com)
-- **X (Twitter):** [@albertochung](https://x.com/albertochung)
-
----
-
-## ⚡ Fun Facts
-
-- My work is my full-time hobby — I love what I do!
-- Always exploring new tech to empower small businesses.
-- Open data and mapping (OpenStreetMap) enthusiast.
-
----
-
-Thanks for stopping by! Feel free to explore my repos, connect, or just say hi. 🚀
+* Website: https://albertochung.com
+* LinkedIn: https://linkedin.com/in/albertochung
